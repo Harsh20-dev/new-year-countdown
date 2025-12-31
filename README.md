@@ -1,4 +1,4 @@
-This project is a modern New Year Countdown Web Application built using HTML, CSS, and Vanilla JavaScript, focusing on real-time logic, clean UI, and production-style code structure.
+This project is a modern New Year Countdown Web Application built using HTML, CSS, and JavaScript, focusing on real-time logic, clean UI, and production-style code structure.
 
 The application dynamically detects the upcoming year and displays a live countdown with smooth animations. As the countdown reaches zero, the UI transitions into a celebration state, making the experience interactive and engaging.
 
