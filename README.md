@@ -33,3 +33,5 @@ JavaScript
 📌 Why this project matters
 
 Built to strengthen my frontend fundamentals, improve real-time JavaScript logic, and practice clean, scalable code structure while having fun with UI and animations.
+
+Check Live Demo - https://harsh20-dev.github.io/new-year-countdown/
